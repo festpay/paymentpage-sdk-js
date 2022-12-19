@@ -5,7 +5,7 @@
 ### What is it?
 
 It is package that will help you with generating payment URL according to 
-[festpay documentation](https://developers.trxhost.com/en/en_PP_Integration.html).
+[festpay documentation](https://developers.festpay.ru/en/en_PP_Integration.html).
 
 ### How to use?
 
@@ -26,8 +26,8 @@ const e = new Payment('112', 'my_secret');
 
 // set payment details 
 e.paymentAmount = 1000;
-e.paymentId = 'FFCD12-30';
-e.paymentCurrency = 'USD';
+e.paymentId = 'F1212-30';
+e.paymentCurrency = 'RUB';
 
 // set another parameters, like success or fail callback URL, customer details, etc.
 
