@@ -2,7 +2,7 @@ const signer = require('./signer');
 
 /**
  * Payment Object
- * @link https://developers.trxhost.com/en/en_PP_Parameters.html
+ * @link https://developers.festpay.ru/en/en_PP_Parameters.html
  *
  * @property {string} accountToken
  * @property {string} bestBefore
